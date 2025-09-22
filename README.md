@@ -35,7 +35,7 @@ Disediakan script penghubung antar aplikasi, bisa didownload di [sini](assets/id
 |`statusbar`|Memodifikasi tampilan statusbar|<font color="lightgreen">&#9745;</font>|<font color="lightgreen">&#9745;</font>|
 |`vibration`|Mode getar|<font color="lightgreen">&#9745;</font>|<font color="lightgreen">&#9745;</font>|
 |||||
-|<b>DOWNLOAD</b>||[<img height="32" src="assets/android.png" alt="Spring">](assets/ideahut.apk)|[<img height="32" src="assets/apple.png" alt="Spring">](assets/ideahut.zip)|
+|<b>DOWNLOAD</b>|Klik logo untuk mengunduh|[<img height="32" src="assets/android.png" alt="Spring">](assets/ideahut.apk)|[<img height="32" src="assets/apple.png" alt="Spring">](assets/ideahut.zip)|
 
 ## News
 Aplikasi dari beberapa portal berita yang disertai dengan analisis sentimen dari beberapa panganalisa virtual.<br/>
